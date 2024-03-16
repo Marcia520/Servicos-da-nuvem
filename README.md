@@ -1,7 +1,5 @@
 # [Microsoft Azure - Tipos de Serviços da Nuvem](https://learn.microsoft.com/pt-br/credentials/certifications/exams/az-900/)
 
-## **Os tipos de Serviços da Nuvem**
-
 <ul>
   <li>IaaS (Infraestrutura como Serviço);</li>
   <li>PaaS (Plataforma como Serviço);</li>
